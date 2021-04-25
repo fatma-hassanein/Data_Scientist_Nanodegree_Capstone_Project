@@ -23,7 +23,7 @@ Two datasets are the reference for mobile popularity and price while the third o
 
 After that, K-Nearest Neighbors Regressor is used to predict the mobile popularity using the mobile price, battery life and body weight. Logarithmic transformation and MinMaxScaler are used to enhance the data training. GridSearch is used to find the best parameters for the regressor and the results was using 38 n_neighbours and distance weights. To enhance the model further, BaggingRegressor with 100 estimators is used to enhance the performance of the KNN Regressor.
 
-![alt text](https://github.com/fatma-hassanein/Disaster_Management_Project/blob/main/results.png?raw=true)
+![alt text](https://github.com/fatma-hassanein/Data_Scientist_Nanodegree_Capstone_Project/blob/main/results.png)
 
 The root of mean squared error reached 0.542 for the test dataframe and 0.19 for the training dataframe.
 

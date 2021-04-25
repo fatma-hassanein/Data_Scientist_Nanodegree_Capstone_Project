@@ -28,7 +28,8 @@ After that, K-Nearest Neighbors Regressor is used to predict the mobile populari
 The root of mean squared error reached 0.542 for the test dataframe and 0.19 for the training dataframe.
 
 ### Instructions:
-Run the three notebooks in order to perform the three steps of the model and produce the final results:
+1. Extract the datasets zip folder "Capstone_DS.zip"
+2. Run the three notebooks in order to perform the three steps of the model and produce the final results:
 
 - 01_Data_ETL_Preparation_NB.ipynb
 - 02_Dataset_Data_Analytics_NB.ipynb
